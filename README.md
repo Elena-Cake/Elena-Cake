@@ -60,11 +60,13 @@
   </div>
   <br>
 
-<h5 align="left">🖱 Воюю на клавомыши ⌨️</h5>
+<h5 align="center">🖱 Воюю на клавомыши ⌨️</h5>
+<div align="center">
 
 [![codewars](https://www.codewars.com/users/Kumiho1/badges/large)](https://www.codewars.com/users/Kumiho1)
 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elena-Cake&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  </div>
 </p>
 
 <hr>
