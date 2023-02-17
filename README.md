@@ -58,7 +58,7 @@
   </div>
   <br>
 
-<h5 align="center">🖱 Воюю на клавомыши ⌨️</h5>
+<h3 align="center">🖱 Воюю на клавомыши ⌨️</h3>
 <div align="center">
 
 [![codewars](https://www.codewars.com/users/Kumiho1/badges/large)](https://www.codewars.com/users/Kumiho1)
