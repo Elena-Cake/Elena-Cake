@@ -30,7 +30,7 @@
 <hr>
 <h2 align="center">✨ Мои языки и навыки ✨</h2>
 <br>
-<p >
+<p align="center" display="flex">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
