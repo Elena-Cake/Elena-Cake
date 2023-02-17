@@ -18,7 +18,6 @@
 <p>
  <h4> Привет! Меня зовут Лена, я разработчик Frontend, прораммист.</h4>
   <br>
-  <br>
   🎓 Я закончила магистратуру МТУСИ(Московский Технический Университет Связи и Информатики) по специальности "Информационная безопасность"
   <br>
   💻 Мне нравится разрабатывать интерфейсы, которые упрощают жизнь всем окружающим.
@@ -72,6 +71,6 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Elena-Cake/lubimovka" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=lubimovka&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Elena-Cake/digital-prophet_0.1" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=digital-prophet_0.1&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
