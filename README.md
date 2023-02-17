@@ -53,9 +53,9 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-Cake&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elena-Cake&theme=lightk&hide_border=true&border_radius=6.5)](https://git.io/streak-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elena-Cake&show_icons=true&locale=en" alt="Elena-Cake" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elena-Cake&show_icons=true&locale=en&layout=compact" alt="Elena-Cake" /></p
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elena-Cake&theme=lightk&hide_border=true&border_radius=6.5&bg_color=20232a)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elena-Cake&show_icons=true&locale=en&bg_color=20232a" alt="Elena-Cake" /></p>
+
   </div>
   <br>
 
