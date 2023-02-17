@@ -9,9 +9,9 @@
 <h5 align="center">
 <h3 align="left">Свяжитесь со мной!</h3>
 <p align="center">
-    <a href="mailto:peshehonova_94@mail.ru" target="blank"><img align="center" src="images/mail.svg" alt="SofiaPeshekhonova" width="35" /></a>
-    <a href="https://www.instagram.com/lena_marinkevich/" title="Instagram Profile"><img width="35" src="images/instagram.svg" align="center"></a>
-    <a href="https://t.me/lena_love_cake" title="Telegram link"><img width="35" src="images/tme.png" align="center"></a>
+    <a href="mailto:peshehonova_94@mail.ru" target="blank"><img align="center" src="images/mail.svg" alt="SofiaPeshekhonova" width="45" /></a>
+    <a href="https://www.instagram.com/lena_marinkevich/" title="Instagram Profile"><img width="45" src="images/instagram.svg" align="center"></a>
+    <a href="https://t.me/lena_love_cake" title="Telegram link"><img width="45" src="images/tme.png" align="center"></a>
 </p>
 </h5>
 
@@ -52,9 +52,14 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-Cake&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elena-Cake&theme=lightk&hide_border=true&border_radius=6.5)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elena-Cake&show_icons=true&locale=en" alt="Elena-Cake" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elena-Cake&show_icons=true&locale=en&layout=compact" alt="Elena-Cake" /></p
   </div>
   <br>
-<h5 align="center">🖱 Воюю на клавомыши ⌨️</h5>
+
+<h5 align="left">🖱 Воюю на клавомыши ⌨️</h5>
 
 [![codewars](https://www.codewars.com/users/Kumiho1/badges/large)](https://www.codewars.com/users/Kumiho1)
 
@@ -65,5 +70,6 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
