@@ -7,7 +7,7 @@
 <h5 align="center">
 <h3 align="left">Свяжитесь со мной!</h3>
 <p align="left">
-    <a href="mailto:peshehonova_94@mail.ru" target="blank"><img align="center" src="images/mail.svg" alt="SofiaPeshekhonova" width="40" /></a>
+    <a href="elenasveshnikova@bk.ru" target="blank"><img align="center" src="images/mail.svg" alt="Elena-Cake" width="40" /></a>
     <a href="https://www.instagram.com/lena_marinkevich/" title="Instagram Profile"><img width="40" src="images/instagram.svg" align="center"></a>
     <a href="https://t.me/lena_love_cake" title="Telegram link"><img width="40" src="images/tme.png" align="center"></a>
 </p>
