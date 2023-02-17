@@ -73,6 +73,6 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Elena-Cake/lubimovka" title="Algorithms"><img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=lubimovka&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/Elena-Cake/mesto" title="Algorithms"><img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=mesto&theme=react&border_color=61dafb&border_radius=10"></a>
+  <br>
   <a align="right" href="https://github.com/Elena-Cake/digital-prophet_0.1" title="Data Structures"><img align="right" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=digital-prophet_0.1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Elena-Cake/russian-travel" title="Data Structures"><img align="right" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=russian-travel.1&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
