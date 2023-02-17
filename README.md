@@ -8,27 +8,26 @@
 
 <h5 align="center">
 <h3 align="left">Свяжитесь со мной!</h3>
-<p align="left">
-    <a href="mailto:peshehonova_94@mail.ru" target="blank"><img align="center" src="images/mail.svg" alt="SofiaPeshekhonova" width="25" /></a>
-    <a href="https://www.instagram.com/lena_marinkevich/" title="Instagram Profile"><img width="25" src="images/instagram.svg" align="center"></a>
-    <a href="https://t.me/lena_love_cake" title="Telegram link"><img width="25" src="images/tme.png" align="center"></a>
+<p align="center">
+    <a href="mailto:peshehonova_94@mail.ru" target="blank"><img align="center" src="images/mail.svg" alt="SofiaPeshekhonova" width="35" /></a>
+    <a href="https://www.instagram.com/lena_marinkevich/" title="Instagram Profile"><img width="35" src="images/instagram.svg" align="center"></a>
+    <a href="https://t.me/lena_love_cake" title="Telegram link"><img width="35" src="images/tme.png" align="center"></a>
 </p>
 </h5>
 
 <p>
- # Привет! Меня зовут Лена, я разработчик Frontend, прораммист.
+ <h4> Привет! Меня зовут Лена, я разработчик Frontend, прораммист.</h4>
   <br>
   <br>
   🎓 Я закончила магистратуру МТУСИ(Московский Технический Университет Связи и Информатики) по специальности "Информационная безопасность"
   <br>
   💻 Мне нравится разрабатывать интерфейсы, которые упрощают жизнь всем окружающим.
-  📜 И изучать что-то новое, что бы делать эти интерфейсы еще лучше!🔧
+  📜 А еще изучать что-то новое, что бы делать эти интерфейсы еще лучше!🔧
   <br>
   🍰 Это мое хобби, люблю когда красиво и вкусно)😋  
-    <a href="https://www.instagram.com/lena_love_cake/" title="Instagram Profile"><img width="25" src="images/instagram.svg" align="center"> Почему Cake?</a>
-  <br>
-  ✉ Всегда рада ответить на вопросы, которые вы можете мне написать <a href="https://t.me/lena_love_cake" title="Telegram link">сюда</a>
+    <a href="https://www.instagram.com/lena_love_cake/" title="Instagram Profile"><img width="25" src="images/instagram.svg" align="center"> Вот почему Cake</a>
 </p>
+
 <hr>
 <h2 align="center">✨ Мои языки и навыки ✨</h2>
 <br>
