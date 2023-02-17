@@ -71,7 +71,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Elena-Cake/lubimovka" title="Algorithms"><img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=lubimovka&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/Elena-Cake/mesto" title="Algorithms"><img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=mesto&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Elena-Cake/lubimovka" title="team-work"><img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=lubimovka&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Elena-Cake/mesto" title="social-network"><img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=mesto&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div>
