@@ -30,6 +30,7 @@
 <hr>
 <h2 align="center">✨ Мои языки и навыки ✨</h2>
 <br>
+<br>
 <p align="center" display="flex">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
@@ -47,6 +48,7 @@
 <hr>
 
 <h2 align="center">⚡ Статистика ⚡</h2>
+<br>
 <br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
