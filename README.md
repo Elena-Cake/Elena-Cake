@@ -38,11 +38,10 @@
   <code><img title="React" height="35" src="images/react-original.svg"></code>
   <code><img title="Redux" height="35" src="images/redux.svg"></code>
   <code><img title="Git" height="35" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="35" src="images/github.svg"></code>
   <code><img title="PostgreSQL" height="35" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="35" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="35" src="images/visualstudio.png"></code>
   <code><img title="JSON" height="35" src="images/json.svg"></code>
-  <code><img title="GitHub" height="35" src="images/github.svg"></code>
   <code><img title="npm" height="35" src="images/npm.svg"></code>
 </p>
 <hr>
@@ -55,7 +54,9 @@
     </a>
   </div>
   <br>
-  
+<h5 align="center">🖱 Воюю на клавомыши ⌨️</h5>
+[![codewars](https://www.codewars.com/users/Kumiho1/badges/large)](https://www.codewars.com/users/Kumiho1)
+
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elena-Cake&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
