@@ -9,7 +9,7 @@
 <p align="left">
     <a href="https://www.instagram.com/lena_marinkevich/" title="Instagram Profile"><img width="40" src="images/instagram.svg" align="center"></a>
     <a href="https://t.me/lena_love_cake" title="Telegram link"><img width="40" src="images/tme.png" align="center"></a>
-    <a href="mailto:elenasveshnikova@bk.ru" title="Telegram link"><img width="40" src="images/mail.png" align="center"></a>
+    <a href="mailto:elenasveshnikova@bk.ru" title="Mail link (elenasveshnikova@bk.ru)"><img width="40" src="images/mail.png" align="center"></a>
     
 </p>
 </h5>
@@ -72,8 +72,6 @@
 <div align="center">
 
 [![codewars](https://www.codewars.com/users/Kumiho1/badges/large)](https://www.codewars.com/users/Kumiho1)
-
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elena-Cake&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </div>
 </p>
 
@@ -83,5 +81,4 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Elena-Cake/lubimovka" title="team-work"><img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=lubimovka&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/Elena-Cake/mesto" title="social-network"><img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Cake&repo=mesto&theme=react&border_color=61dafb&border_radius=10"></a>
-
 </div>
