@@ -42,6 +42,7 @@
   <code><img title="Visual Studio Code" height="35" src="images/vscode.png"></code>
   <code><img title="JSON" height="35" src="images/json.svg"></code>
   <code><img title="npm" height="35" src="images/npm.svg"></code>
+  <code><img title="axios" height="35" src="images/axios.png"></code>
 </p>
 <br>
 <h2 align="center">✨ Имею опыт работы с библиотеками ✨</h2>
@@ -49,7 +50,9 @@
 <p align="center" >
   <code><img title="PrimeReact" height="35" src="images/primereact-logo.png"></code>
   <code><img title="AntDasign" height="35" src="images/ant-design.png"></code>
+  <code><img title="DataTable" height="35" src="images/Datatables.png"></code>
   <code><img title="ChartJS" height="35" src="images/chartjs.png"></code>
+  <code><img title="AG-Grid" height="35" src="images/aggrid.png"></code>
 </p>
 <hr>
 
