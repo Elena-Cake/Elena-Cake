@@ -9,6 +9,8 @@
 <p align="left">
     <a href="https://www.instagram.com/lena_marinkevich/" title="Instagram Profile"><img width="40" src="images/instagram.svg" align="center"></a>
     <a href="https://t.me/lena_love_cake" title="Telegram link"><img width="40" src="images/tme.png" align="center"></a>
+     <a href="mailto:elenasveshnikova@bk.ru" title="Telegram link"><img width="40" src="images/mail.png" align="center"></a>
+    
 </p>
 </h5>
 
@@ -29,10 +31,11 @@
 <br>
 <p align="center" >
   <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
+  <code><img title="TypeScript" height="35" src="images/typescript.png"></code>
   <code><img title="HTML5" height="35" src="images/html5.svg"></code>
   <code><img title="CSS" height="35" src="images/css.svg"></code>
   <code><img title="React" height="35" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="35" src="images/redux.svg"></code>
+  <code><img title="Redux Toolkit" height="35" src="images/redux.svg"></code>
   <code><img title="Git" height="35" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="35" src="images/github.svg"></code>
   <code><img title="PostgreSQL" height="35" src="images/postgresql.svg"></code>
