@@ -9,7 +9,7 @@
 <p align="left">
     <a href="https://www.instagram.com/lena_marinkevich/" title="Instagram Profile"><img width="40" src="images/instagram.svg" align="center"></a>
     <a href="https://t.me/lena_love_cake" title="Telegram link"><img width="40" src="images/tme.png" align="center"></a>
-     <a href="mailto:elenasveshnikova@bk.ru" title="Telegram link"><img width="40" src="images/mail.png" align="center"></a>
+    <a href="mailto:elenasveshnikova@bk.ru" title="Telegram link"><img width="40" src="images/mail.png" align="center"></a>
     
 </p>
 </h5>
@@ -42,6 +42,14 @@
   <code><img title="Visual Studio Code" height="35" src="images/vscode.png"></code>
   <code><img title="JSON" height="35" src="images/json.svg"></code>
   <code><img title="npm" height="35" src="images/npm.svg"></code>
+</p>
+<br>
+<h2 align="center">✨ Имею опыт работы с библиотеками ✨</h2>
+<br>
+<p align="center" >
+  <code><img title="PrimeReact" height="35" src="images/primereact-logo.png"></code>
+  <code><img title="AntDasign" height="35" src="images/ant-design.png"></code>
+  <code><img title="ChartJS" height="35" src="images/chartjs.png"></code>
 </p>
 <hr>
 
